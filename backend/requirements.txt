@@ -1,9 +1,3 @@
 flask
 flask-cors
-pandas
-openai
-python-dotenv
-openpyxl
-pdfplumber
-pytest
-requests
+gunicorn
