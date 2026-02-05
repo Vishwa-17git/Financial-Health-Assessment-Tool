@@ -11,10 +11,10 @@ export default function About() {
           </Typography>
           <Divider sx={{ mb: 2 }} />
           <Typography variant="body1" sx={{ mb: 2 }}>
-            This tool helps you analyze your company's financial health by uploading your financial data. It leverages AI to provide insights, benchmarks, and a comprehensive health score, making it easier to understand your business performance and risks.
+            This tool helps you analyze your company's financial health by uploading your financial data. It provides insights, benchmarks, and a comprehensive health score, making it easier to understand your business performance and risks.
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Version 1.0.0 | Powered by AI & Modern Web Technologies
+            Version 1.0.0 | Powered by Modern Web Technologies
           </Typography>
         </CardContent>
       </Card>

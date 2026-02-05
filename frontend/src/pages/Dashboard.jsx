@@ -24,11 +24,11 @@ export default function Dashboard({ data, onBack }) {
           <Card sx={{ mt: 4, background: "#f9fbe7", borderRadius: 3, boxShadow: 2 }}>
             <CardContent>
               <Typography variant="h5" gutterBottom color="primary" sx={{ fontWeight: 700 }}>
-                AI Insights
+                Insights
               </Typography>
               <Divider sx={{ mb: 2 }} />
               <Typography variant="body1" sx={{ whiteSpace: "pre-line", fontSize: 17, color: '#333' }}>
-                {data.ai_insights}
+                {data.insights || 'No additional insights available.'}
               </Typography>
             </CardContent>
           </Card>

@@ -3,7 +3,7 @@ import { Box, Typography, Card, CardContent, Divider, List, ListItem, ListItemIc
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 
 const features = [
-  "AI-powered financial analysis",
+  "Automated financial analysis",
   "Industry benchmarking",
   "Comprehensive health score",
   "Interactive charts and insights",

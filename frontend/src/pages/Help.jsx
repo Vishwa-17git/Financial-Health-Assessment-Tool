@@ -3,7 +3,7 @@ import { Box, Card, CardContent, Typography, List, ListItem, ListItemText } from
 
 const faqs = [
   { q: 'What file formats are supported?', a: 'We accept CSV files with basic financial statements.' },
-  { q: 'How is the health score calculated?', a: 'The score is computed from multiple financial ratios and AI-based risk analysis.' },
+  { q: 'How is the health score calculated?', a: 'The score is computed from multiple financial ratios and advanced risk analysis.' },
   { q: 'Is my data stored?', a: 'Files are used for analysis and not stored long-term by default.' }
 ];
 
